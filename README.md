@@ -18,4 +18,4 @@ The quest is triggered when a player logs in or levels up in the game. It checks
 3. Compile and restart the server.
 
 ## Demo
-![Image](image.png)
+
