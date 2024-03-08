@@ -54,7 +54,7 @@ quest give_basic_costume begin
                         item_vnum = 40104
                         say_item_vnum(item_vnum)
                     end
-                elseif pc.get_job() == 3 then -- Sura
+                elseif pc.get_job() == 2 then -- Sura
                     say("")
                     item_vnum = 40101
                     say_item_vnum(item_vnum)
