@@ -1,0 +1,4 @@
+14219	Congratulations! You have reached level %d.
+14220	Team Neith2 appreciates your effort[ENTER]and that you are with us.[ENTER]We want to thank you and as a reward[ENTER]you receive a gift from us.
+14221	You have chosen your gift from the team[ENTER]Neith2.[ENTER][ENTER]As you level up you will receive[ENTER]numerous rewards to help you.
+14222	We wish you a most enjoyable game.
